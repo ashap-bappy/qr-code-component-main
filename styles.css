@@ -1,0 +1,38 @@
+body {
+	background-color: lightgrey;
+	height: 100vh;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.main {
+	background-color: white;
+	width: 320px;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+h1,
+p {
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5rem;
+}
+
+p {
+	color: #7D889E;
+}

@@ -18,13 +18,13 @@ body {
 .card {
 	background-color: hsl(0, 0%, 100%);
 	max-width: 20rem;
-	border-radius: 20px;
-	padding: 10px;
+	border-radius: 15px;
+	padding: 15px;
 }
 
 img {
 	width: 100%;
-	border-radius: 15px;
+	border-radius: 10px;
 }
 
 .nowrap {
@@ -38,7 +38,7 @@ p {
 
 h1 {
 	font-size: 1.5rem;
-	font-weight: 700;
+	font-weight: 600;
 	margin-top: 15px;
 	padding: 0 10px;
 }
@@ -47,6 +47,6 @@ p {
 	color: hsl(220, 15%, 55%);
 	font-size: 1rem;
 	font-weight: 400;
-	margin-top: 15px;
+	margin: 15px 0;
 	padding: 0 10px;
 }
